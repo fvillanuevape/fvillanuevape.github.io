@@ -1,0 +1,5 @@
+# Ignorar archivos de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de macOS
+.DS_Store
